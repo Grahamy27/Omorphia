@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    font-family: "";
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #103933;
+}
+.nav ul {
+    margin: 0;
+}
+.main-header {
+    background-color: #ffe6ec;
+    background-image: url("images/header background.png");
+    background-size: cover;
+    padding-bottom: 30px;
+}
+
